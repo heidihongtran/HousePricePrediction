@@ -11,7 +11,7 @@ Project Requirements:
   
   3. Compare the prediction performance of multiple linear regression achieved in requirement 1 and the KNN classifier achieved in requirement 2.
   
-Methods:
+METHODS:
 
    For the development of predictive models, a sample of housing data was obtained. This dataset contained over 21,613 records of homes, with 21 different home
 attributes. The dataset was reviewed to ensure there were no missing values; additionally, variables were both created and removed to better capture the age of a property. Following this, we randomly partitioned the dataset into training and test data with a respective 60/40 split. It is important to note that any change made to the test data is also applied to the training data and vice versa.
